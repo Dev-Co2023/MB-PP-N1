@@ -1,1 +1,7 @@
-.idea/
+.idea
+.idea/MB-PP-N1.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+*.iml
+*.xml
